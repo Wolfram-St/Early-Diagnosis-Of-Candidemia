@@ -1,0 +1,24 @@
+# Requirements for Candida Classification Web Application
+
+# Core ML and Image Processing
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.8.0
+Pillow>=9.5.0
+numpy>=1.24.0
+
+# Web Framework Options
+streamlit>=1.28.0
+flask>=2.3.0
+flask-cors>=4.0.0
+
+# Data Processing and Visualization
+pandas>=2.0.0
+plotly>=5.15.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Additional utilities
+scikit-learn>=1.3.0
+tqdm>=4.65.0
+requests>=2.31.0
